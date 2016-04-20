@@ -1,0 +1,6 @@
+framework module Pods_RKObjectMapperTest {
+  umbrella header "Pods-RKObjectMapperTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

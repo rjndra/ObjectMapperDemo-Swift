@@ -1,10 +1,11 @@
 //
-//  AppDelegate.swift
+//  ViewController.swift
 //  RKObjectMapperTest
 //
-//  Created by User on 4/19/16.
-//  Copyright © 2016 User. All rights reserved.
+//  Created by Rajendra on 4/19/16.
+// No copyright. Demo for Helping use with  AlamofireObject from https://github.com/tristanhimmelman/AlamofireObjectMapper  ObjectMapper and https://github.com/Hearst-DD/ObjectMapper
 //
+
 
 import UIKit
 
